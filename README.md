@@ -1,1 +1,1 @@
-# ai-notebooks
+# ai-notebooks in PyTorch
